@@ -1,17 +1,13 @@
 # Machine-Learning
 
-2021-09-10 시작 예제 및 데이터 전처리
-1. 201858036_박현수.ipynb
-2. testSet_trainSet.ipynb
-3. preprocessing.ipynb
-
-2021-09-17 데이터 전처리2
-1. 2021_09_21.ipynb
-2. example3.ipynb
-
-2021-09-24 회귀 알고리즘
-1. 2021_09_24.ipynb
-2. 2021_10_01.ipynb
-
-2021-10-15 SVM
-1. 2021_10_15.ipynb
+1. 2021_09_10_1_Start_Example.ipynb
+2. 2021_09_10_2_trainSet_testSet.ipynb
+3. 2021_09_10_3_Preprocessing.ipynb
+4. 2021_09_17_DataProcessing.ipynb
+5. 2021_09_21_DataProcessing.ipynb
+6. 2021_09_24_회귀_알고리즘.ipynb
+7. 2021_10_01_회귀_알고리즘.ipynb
+8. 2021_10_15_SVM.ipynb
+9. 2021_11_05_트리_알고리즘.ipynb
+10. 2021_11_12_군집_알고리즘.ipynb
+11. 2021_11_19_비지도학습.ipynb
